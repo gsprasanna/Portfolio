@@ -1,33 +1,34 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d31baaa1.chunk.css",
-    "main.js": "/Portfolio/static/js/main.86744e7a.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.86744e7a.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.31ba8b38.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.31ba8b38.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.d3ebe2ed.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d3ebe2ed.js.map",
     "static/css/2.372bada3.chunk.css": "/Portfolio/static/css/2.372bada3.chunk.css",
-    "static/js/2.3109f545.chunk.js": "/Portfolio/static/js/2.3109f545.chunk.js",
-    "static/js/2.3109f545.chunk.js.map": "/Portfolio/static/js/2.3109f545.chunk.js.map",
+    "static/js/2.7e9eda1a.chunk.js": "/Portfolio/static/js/2.7e9eda1a.chunk.js",
+    "static/js/2.7e9eda1a.chunk.js.map": "/Portfolio/static/js/2.7e9eda1a.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.0e747f3cbce97e258c7c7972edb7806a.js": "/Portfolio/precache-manifest.0e747f3cbce97e258c7c7972edb7806a.js",
+    "precache-manifest.66bea78fbded2d11ac60ea87eea56d7b.js": "/Portfolio/precache-manifest.66bea78fbded2d11ac60ea87eea56d7b.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/2.372bada3.chunk.css.map": "/Portfolio/static/css/2.372bada3.chunk.css.map",
     "static/css/main.d31baaa1.chunk.css.map": "/Portfolio/static/css/main.d31baaa1.chunk.css.map",
-    "static/js/2.3109f545.chunk.js.LICENSE": "/Portfolio/static/js/2.3109f545.chunk.js.LICENSE",
+    "static/js/2.7e9eda1a.chunk.js.LICENSE": "/Portfolio/static/js/2.7e9eda1a.chunk.js.LICENSE",
     "static/media/Arrange-Puzzle-Game.png": "/Portfolio/static/media/Arrange-Puzzle-Game.f7fbf898.png",
     "static/media/Dev-Picture.jpg": "/Portfolio/static/media/Dev-Picture.3496a5d3.jpg",
     "static/media/EmployeesProfileApp.png": "/Portfolio/static/media/EmployeesProfileApp.b0c98150.png",
     "static/media/Multi-Dropdown.png": "/Portfolio/static/media/Multi-Dropdown.9001a857.png",
     "static/media/NobelPrizeIcon.jpeg": "/Portfolio/static/media/NobelPrizeIcon.03a02e72.jpeg",
     "static/media/ProfilePicture.png": "/Portfolio/static/media/ProfilePicture.2067de11.png",
+    "static/media/blog.jpeg": "/Portfolio/static/media/blog.be485a64.jpeg",
     "static/media/library.jpg": "/Portfolio/static/media/library.fb3a7e74.jpg",
     "static/media/nodeJS-api.png": "/Portfolio/static/media/nodeJS-api.59c1df9f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d3ebe2ed.js",
     "static/css/2.372bada3.chunk.css",
-    "static/js/2.3109f545.chunk.js",
+    "static/js/2.7e9eda1a.chunk.js",
     "static/css/main.d31baaa1.chunk.css",
-    "static/js/main.86744e7a.chunk.js"
+    "static/js/main.31ba8b38.chunk.js"
   ]
 }
