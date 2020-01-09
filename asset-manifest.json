@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7e470ec.chunk.css",
+    "main.js": "/static/js/main.ae0464af.chunk.js",
+    "main.js.map": "/static/js/main.ae0464af.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.170f8412.js",
+    "runtime-main.js.map": "/static/js/runtime-main.170f8412.js.map",
+    "static/css/2.372bada3.chunk.css": "/static/css/2.372bada3.chunk.css",
+    "static/js/2.3109f545.chunk.js": "/static/js/2.3109f545.chunk.js",
+    "static/js/2.3109f545.chunk.js.map": "/static/js/2.3109f545.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c1f986241eeed9137cc0ffd61d8fd0fd.js": "/precache-manifest.c1f986241eeed9137cc0ffd61d8fd0fd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.372bada3.chunk.css.map": "/static/css/2.372bada3.chunk.css.map",
+    "static/css/main.b7e470ec.chunk.css.map": "/static/css/main.b7e470ec.chunk.css.map",
+    "static/js/2.3109f545.chunk.js.LICENSE": "/static/js/2.3109f545.chunk.js.LICENSE",
+    "static/media/Arrange-Puzzle-Game.png": "/static/media/Arrange-Puzzle-Game.f7fbf898.png",
+    "static/media/Dev-Picture.jpg": "/static/media/Dev-Picture.3496a5d3.jpg",
+    "static/media/EmployeesProfileApp.png": "/static/media/EmployeesProfileApp.b0c98150.png",
+    "static/media/Multi-Dropdown.png": "/static/media/Multi-Dropdown.9001a857.png",
+    "static/media/NobelPrizeIcon.jpeg": "/static/media/NobelPrizeIcon.03a02e72.jpeg",
+    "static/media/ProfilePicture.png": "/static/media/ProfilePicture.2067de11.png",
+    "static/media/library.jpg": "/static/media/library.fb3a7e74.jpg",
+    "static/media/nodeJS-api.png": "/static/media/nodeJS-api.59c1df9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.170f8412.js",
+    "static/css/2.372bada3.chunk.css",
+    "static/js/2.3109f545.chunk.js",
+    "static/css/main.b7e470ec.chunk.css",
+    "static/js/main.ae0464af.chunk.js"
+  ]
+}
