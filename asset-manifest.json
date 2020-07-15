@@ -1,34 +1,32 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d31baaa1.chunk.css",
-    "main.js": "/Portfolio/static/js/main.3cea0c38.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.3cea0c38.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.06540e06.chunk.css",
+    "main.js": "/Portfolio/static/js/main.a34c2cd6.chunk.js",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.d3ebe2ed.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d3ebe2ed.js.map",
-    "static/css/2.372bada3.chunk.css": "/Portfolio/static/css/2.372bada3.chunk.css",
-    "static/js/2.2e646122.chunk.js": "/Portfolio/static/js/2.2e646122.chunk.js",
-    "static/js/2.2e646122.chunk.js.map": "/Portfolio/static/js/2.2e646122.chunk.js.map",
+    "static/css/2.1120079f.chunk.css": "/Portfolio/static/css/2.1120079f.chunk.css",
+    "static/js/2.700cb24e.chunk.js": "/Portfolio/static/js/2.700cb24e.chunk.js",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.4c2773270c4c031745b27f7775331709.js": "/Portfolio/precache-manifest.4c2773270c4c031745b27f7775331709.js",
+    "precache-manifest.8a4396012780939cc55a46247a9750c7.js": "/Portfolio/precache-manifest.8a4396012780939cc55a46247a9750c7.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/2.372bada3.chunk.css.map": "/Portfolio/static/css/2.372bada3.chunk.css.map",
-    "static/css/main.d31baaa1.chunk.css.map": "/Portfolio/static/css/main.d31baaa1.chunk.css.map",
-    "static/js/2.2e646122.chunk.js.LICENSE": "/Portfolio/static/js/2.2e646122.chunk.js.LICENSE",
+    "static/js/2.700cb24e.chunk.js.LICENSE": "/Portfolio/static/js/2.700cb24e.chunk.js.LICENSE",
     "static/media/Arrange-Puzzle-Game.png": "/Portfolio/static/media/Arrange-Puzzle-Game.f7fbf898.png",
     "static/media/Dev-Picture.jpg": "/Portfolio/static/media/Dev-Picture.3496a5d3.jpg",
     "static/media/EmployeesProfileApp.png": "/Portfolio/static/media/EmployeesProfileApp.b0c98150.png",
     "static/media/Multi-Dropdown.png": "/Portfolio/static/media/Multi-Dropdown.9001a857.png",
     "static/media/NobelPrizeIcon.jpeg": "/Portfolio/static/media/NobelPrizeIcon.03a02e72.jpeg",
     "static/media/ProfilePicture.png": "/Portfolio/static/media/ProfilePicture.2067de11.png",
+    "static/media/TCE-Logo.png": "/Portfolio/static/media/TCE-Logo.564125f0.png",
     "static/media/blog.jpeg": "/Portfolio/static/media/blog.be485a64.jpeg",
+    "static/media/einstein-profile.jpeg": "/Portfolio/static/media/einstein-profile.05b692fd.jpeg",
     "static/media/library.jpg": "/Portfolio/static/media/library.fb3a7e74.jpg",
-    "static/media/nodeJS-api.png": "/Portfolio/static/media/nodeJS-api.59c1df9f.png"
+    "static/media/nodeJS-api.png": "/Portfolio/static/media/nodeJS-api.59c1df9f.png",
+    "static/media/pradeep-profile.jpeg": "/Portfolio/static/media/pradeep-profile.5bbf2923.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.d3ebe2ed.js",
-    "static/css/2.372bada3.chunk.css",
-    "static/js/2.2e646122.chunk.js",
-    "static/css/main.d31baaa1.chunk.css",
-    "static/js/main.3cea0c38.chunk.js"
+    "static/css/2.1120079f.chunk.css",
+    "static/js/2.700cb24e.chunk.js",
+    "static/css/main.06540e06.chunk.css",
+    "static/js/main.a34c2cd6.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f87bc2e6430e2441cc08c4f52556b56",
+    "revision": "a74f1cc6b01e0074130bc6a3f92b86ae",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "4386ff7c391a4de0efaa",
-    "url": "/Portfolio/static/css/2.372bada3.chunk.css"
+    "revision": "b593543e711e99bcf8e3",
+    "url": "/Portfolio/static/css/2.1120079f.chunk.css"
   },
   {
-    "revision": "dded885ee9a06e448e3f",
-    "url": "/Portfolio/static/css/main.d31baaa1.chunk.css"
+    "revision": "7e8c83d82f4c4128bf69",
+    "url": "/Portfolio/static/css/main.06540e06.chunk.css"
   },
   {
-    "revision": "4386ff7c391a4de0efaa",
-    "url": "/Portfolio/static/js/2.2e646122.chunk.js"
+    "revision": "b593543e711e99bcf8e3",
+    "url": "/Portfolio/static/js/2.700cb24e.chunk.js"
   },
   {
     "revision": "28a66632071b0ad6a07bb7c465dc9b43",
-    "url": "/Portfolio/static/js/2.2e646122.chunk.js.LICENSE"
+    "url": "/Portfolio/static/js/2.700cb24e.chunk.js.LICENSE"
   },
   {
-    "revision": "dded885ee9a06e448e3f",
-    "url": "/Portfolio/static/js/main.3cea0c38.chunk.js"
+    "revision": "7e8c83d82f4c4128bf69",
+    "url": "/Portfolio/static/js/main.a34c2cd6.chunk.js"
   },
   {
     "revision": "6a58a16603ebe426610b",
@@ -52,8 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/ProfilePicture.2067de11.png"
   },
   {
+    "revision": "564125f0bf6ea6163e444f5e2529250e",
+    "url": "/Portfolio/static/media/TCE-Logo.564125f0.png"
+  },
+  {
     "revision": "be485a6493f3b4e9b7e414da7e4c2717",
     "url": "/Portfolio/static/media/blog.be485a64.jpeg"
+  },
+  {
+    "revision": "05b692fd82b7a79fd5c0b2e5f308615b",
+    "url": "/Portfolio/static/media/einstein-profile.05b692fd.jpeg"
   },
   {
     "revision": "fb3a7e74d15c49e92716b0e7ddf3f2a6",
@@ -62,5 +70,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59c1df9f2f3b3860325b59b0d7189996",
     "url": "/Portfolio/static/media/nodeJS-api.59c1df9f.png"
+  },
+  {
+    "revision": "5bbf2923ce82781f7ab54394ef330f18",
+    "url": "/Portfolio/static/media/pradeep-profile.5bbf2923.jpeg"
   }
 ]);
